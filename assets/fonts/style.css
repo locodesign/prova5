@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'HelveticaNowDisplay-Black';
+   font-display: swap;
+   src: url('HelveticaNowDisplay-Black/font.woff');
+}
+@font-face {
+   font-family: 'HelveticaNowDisplay-Bold';
+   font-display: swap;
+   src: url('HelveticaNowDisplay-Bold/font.woff');
+}
+@font-face {
+   font-family: 'HelveticaNowDisplay-Regular';
+   font-display: swap;
+   src: url('HelveticaNowDisplay-Regular/font.woff');
+}
